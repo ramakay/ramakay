@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ramakay  
 
-I'm an engineering leader specializing in scalable, AI-driven applications and modern composable eCommerce platforms. I help teams evolve from informal "vibe coding" to structured, architecture-driven development workflows.
+I'm an engineering leader specializing in scalable, AI-driven applications and modern composable eCommerce platforms. I help Enterpreneurs and teams evolve from informal "vibe coding" to structured, architecture-driven development workflows that impact the bottom line.
 
 ---
 
