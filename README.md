@@ -36,6 +36,7 @@ I'm an engineering leader specializing in scalable, AI-driven applications and m
 
 ## 📫 Reach Me  
 
+- [Procsolve](https://www.procsolve.com)
 - [Stack Overflow](https://stackoverflow.com/users/13749957/ramakay)  
 - [LinkedIn](https://www.linkedin.com/in/ramakay/) *(preferred for professional networking)*  
 
